@@ -1,0 +1,31 @@
+
+
+body{background-color: rgb(255,243,219);
+
+}
+ol{list-style: none;
+width: 100px;
+position: absolute;
+}
+
+.menu{
+    margin-bottom: 15px;
+}
+
+h4{
+font-style: italic;
+    position: initial;
+    margin: 0px;
+    padding: 0px;
+}
+ p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+
+margin-left: 20%;
+position: relative;
+ }
+h6{
+    position: relative;
+margin-top: 35%;
+
+}
